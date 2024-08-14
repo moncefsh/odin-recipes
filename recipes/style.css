@@ -1,0 +1,31 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+#title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: green;
+}
+
+.subtitles{
+    text-align: left;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(17, 170, 17);
+}
+
+li{
+    font-size:18px ;
+    font-weight: 200;
+}
+
+img{
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
